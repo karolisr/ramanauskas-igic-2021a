@@ -1,0 +1,919 @@
+#NEXUS
+[R-package treeio, Fri Jan  1 17:51:29 2021]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 453;
+	TAXLABELS
+		Spinacia_oleracea|LZYP01000057.1|408293__409567
+		Stenocereus_thurberi|NCQT01005222.1|5545__7026
+		Schlumbergera_truncata|FB_10
+		Stenocereus_thurberi|NCQT01079924.1|4343__5686
+		Stenocereus_thurberi|NCQT01137885.1|5657__6937
+		Schlumbergera_truncata|FB_09
+		Schlumbergera_truncata|FB_08
+		Schlumbergera_truncata|FB_15
+		Schlumbergera_truncata|FB_16
+		Schlumbergera_truncata|FB_14
+		Schlumbergera_truncata|FB_17
+		Schlumbergera_truncata|FB_13
+		Stenocereus_thurberi|NCQT01079924.1|566__1909
+		Schlumbergera_truncata|FB_11
+		Schlumbergera_truncata|FB_12
+		Stenocereus_thurberi|NCQT01064740.1|2154__3428
+		Stenocereus_thurberi|NCQT01159269.1|1912__3273
+		Stenocereus_thurberi|NCQT01086271.1|1779__3158
+		Stenocereus_thurberi|NCQT01136539.1|6688__8193
+		Schlumbergera_truncata|FB_07
+		Spinacia_oleracea|LZYP01000938.1|182939__184447
+		Solanum_chilense|RXGB01003116.1|6022__7227
+		Solanum_chilense|RXGB01003116.1|8957__10162
+		Solanum_chilense|RXGB01003116.1|11703__12908
+		Solanum_chilense|RXGB01003116.1|2647__3828
+		Solanum_chilense|RXGB01012564.1|2848__3969
+		Solanum_chilense|RXGB01023942.1|1397__2674
+		Solanum_chilense|RXGB01006023.1|7205__8350
+		Coffea_eugenioides|NC_040040.1|4595970__4597052
+		Spinacia_oleracea|LZYP01001725.1|145395__146717
+		Spinacia_oleracea|LZYP01000030.1|1879804__1880934
+		Stenocereus_thurberi|NCQT01109187.1|3448__4770
+		Schlumbergera_truncata|FB_20
+		Spinacia_oleracea|LZYP01000055.1|202238__203374
+		Schlumbergera_truncata|FB_19
+		Citrus_maxima|S6-SLF12|1048271__1049392
+		Citrus_maxima|S6-SLF11|1052408__1053583
+		Citrus_maxima|S6-SLF6|1150606__1151748
+		Citrus_maxima|S6-SLF4|1187590__1188705
+		Citrus_maxima|S6-SLF2|1259356__1260480
+		Citrus_maxima|S6-SLF3|1253040__1254155
+		Citrus_maxima|S6-SLF1|1262358__1263458
+		Citrus_maxima|S6-SLF8|1082162__1083301
+		Citrus_maxima|S6-SLF9|1086056__1087198
+		Citrus_maxima|S6-SLF5|1155846__1156970
+		Citrus_maxima|S6-SLF7|1108265__1109386
+		Citrus_maxima|S6-SLF10|1054856__1056001
+		Prunus_avium|NW_018922019.1|255205__256356
+		Malus_domestica|XM_008343476.2
+		Stenocereus_thurberi|NCQT01051356.1|2015__3238
+		Spinacia_oleracea|LZYP01002067.1|79312__80526
+		Spinacia_oleracea|LZYP01000051.1|770725__771825
+		Stenocereus_thurberi|NCQT01034509.1|19565__20824
+		Schlumbergera_truncata|FB_18
+		Solanum_chilense|RXGB01007378.1|14558__15655
+		Coffea_eugenioides|NC_040039.1|3159958__3161067
+		Solanum_chilense|SLF-17|RXGB01005172.1|1337__2518
+		Solanum_chilense|SLF-2|RXGB01007648.1|38246__39427
+		Solanum_chilense|SLF-21|RXGB01008044.1|30916__32229
+		Solanum_chilense|SLF-5|RXGB01018085.1|3989__5158
+		Solanum_chilense|SLF-6|RXGB01010666.1|5861__7006
+		Solanum_chilense|SLF-13|RXGB01021912.1|1039__2241
+		Solanum_chilense|SLF-4|RXGB01002813.1|85037__86203
+		Solanum_chilense|SLF-11|RXGB01001409.1|49611__50783
+		Solanum_chilense|SLF-12|RXGB01007129.1|18978__20141
+		Solanum_chilense|SLF-9|RXGB01000120.1|16065__17207
+		Solanum_chilense|SLF-20|RXGB01002505.1|54984__56150
+		Solanum_chilense|SLF-23|RXGB01004977.1|85449__86606
+		Solanum_chilense|SLF-7|RXGB01007022.1|6797__8002
+		Solanum_chilense|SLF-22|RXGB01001630.1|7151__8284
+		Solanum_chilense|SLF-1|RXGB01002604.1|29645__30820
+		Coffea_eugenioides|SLF|NC_040043.1|41616136__41617161
+		Coffea_eugenioides|SLF|NC_040042.1|3617341__3618465
+		Coffea_eugenioides|SLF|NC_040035.1|32961919__32963022
+		Coffea_eugenioides|SLF|NC_040039.1|31458897__31460123
+		Coffea_eugenioides|SLF|NC_040035.1|1878203__1879351
+		Coffea_eugenioides|SLF|NC_040041.1|10705995__10707212
+		Coffea_eugenioides|SLF|NC_040042.1|2727794__2728981
+		Antirrhinum_hispanicum|SLF-S5D|AJ515536|6529__7653
+		Antirrhinum_hispanicum|SLF-S4D|AJ515534|5054__6178
+		Antirrhinum_hispanicum|SLF-S2D|KT369121|119119__120243
+		Antirrhinum_hispanicum|SLF-S5K|AJ515536|42972__44120
+		Antirrhinum_hispanicum|SLF-S1K|AJ515535|55537__56685
+		Antirrhinum_hispanicum|SLF-S2C|KT369121|129041__130228
+		Antirrhinum_hispanicum|SLF-S2A|KT369121|108999__110204
+		Antirrhinum_hispanicum|SLF-S5A|AJ515536|13483__14658
+		Antirrhinum_hispanicum|SLF-S4A|AJ515534|21200__22375
+		Antirrhinum_hispanicum|SLF-S5E|AJ515536|64511__65665
+		Antirrhinum_hispanicum|SLF-S1E|AJ515535|37821__38975
+		Antirrhinum_hispanicum|SLF-S5|AJ515536|36179__37309
+		Antirrhinum_hispanicum|SLF-S1|AJ515535|62272__63402
+		Antirrhinum_hispanicum|SLF-S4|AJ515534|44134__45264
+		Antirrhinum_hispanicum|SLF-S2|KT369121|86472__87602
+		Citrus_maxima|Chr1|18451214__18452290
+		Citrus_maxima|Chr6|22957213__22958403
+		Citrus_maxima|Chr6|22063352__22064530
+		Prunus_avium|NW_018921449.1|182998__184425
+		Prunus_avium|SLFL7A|NW_018921718.1|628204__629532
+		Prunus_avium|SLFL3|NW_018925187.1|41091__42341
+		Malus_domestica|XM_008372398.2
+		Prunus_avium|SLFL1|AB280953
+		Malus_domestica|SFBB|XM_029097963.1
+		Malus_domestica|SFBB|XM_008364263.2
+		Malus_domestica|SFBB|XM_029098579.1
+		Malus_domestica|SFBB|NM_001328801.1
+		Malus_domestica|SFBB|XM_029097976.1
+		Malus_domestica|SFBB|XM_029097937.1
+		Malus_domestica|SFBB|XM_008344808.3
+		Malus_domestica|SFBB|XM_017324144.2
+		Malus_domestica|SFBB|XM_029096717.1
+		Malus_domestica|SFBB|XM_029097876.1
+		Malus_domestica|SFBB|XM_029097347.1
+		Malus_domestica|SFBB|XM_008340205.3
+		Malus_domestica|SFBB|XM_029097930.1
+		Malus_domestica|SFBB|XM_008388108.3
+		Malus_domestica|SFBB|XM_029097397.1
+		Malus_domestica|SFBB|XM_008355598.3
+		Malus_domestica|SFBB|NM_001328921.1
+		Malus_domestica|XM_029094498.1
+		Malus_domestica|XM_029108083.1
+		Malus_domestica|XM_029108075.1
+		Malus_domestica|XM_008390723.2
+		Prunus_avium|SLFL2|NW_018927702.1|301__1575
+		Prunus_avium|SLFL6|LC438401
+		Citrus_maxima|Chr5|18824416__18825597
+		Prunus_avium|NW_018921731.1|64338__65471
+		Malus_domestica|XM_008344550.3
+		Citrus_maxima|Chr2|41876704__41877864
+		Stenocereus_thurberi|NCQT01153715.1|293__1594
+		Schlumbergera_truncata|FB_05
+		Spinacia_oleracea|LZYP01000033.1|341819__343042
+		Solanum_chilense|RXGB01001394.1|89962__91419
+		Coffea_eugenioides|NC_040043.1|841057__842427
+		Coffea_eugenioides|NC_040043.1|823953__825233
+		Solanum_chilense|RXGB01004244.1|6799__7956
+		Spinacia_oleracea|LZYP01000701.1|30204__31295
+		Spinacia_oleracea|LZYP01001791.1|78121__79701
+		Stenocereus_thurberi|NCQT01094215.1|6176__7300
+		Stenocereus_thurberi|NCQT01120313.1|4580__5755
+		Stenocereus_thurberi|NCQT01125906.1|2189__3376
+		Stenocereus_thurberi|NCQT01143535.1|21972__23045
+		Stenocereus_thurberi|NCQT01094600.1|12946__14019
+		Stenocereus_thurberi|NCQT01015545.1|5443__6597
+		Stenocereus_thurberi|NCQT01094600.1|18818__19924
+		Stenocereus_thurberi|NCQT01015545.1|105__1217
+		Schlumbergera_truncata|FB_06
+		Stenocereus_thurberi|NCQT01053214.1|604__1710
+		Spinacia_oleracea|LZYP01000149.1|585315__586490
+		Stenocereus_thurberi|NCQT01133548.1|9054__10214
+		Spinacia_oleracea|LZYP01000149.1|439948__441078
+		Spinacia_oleracea|LZYP01000149.1|417083__418258
+		Spinacia_oleracea|LZYP01000149.1|460328__461503
+		Spinacia_oleracea|LZYP01000149.1|452726__453886
+		Spinacia_oleracea|LZYP01000247.1|248857__250119
+		Spinacia_oleracea|LZYP01000247.1|244537__245694
+		Citrus_maxima|Chr8|2781257__2782597
+		Citrus_maxima|Chr8|2762501__2763997
+		Citrus_maxima|Chr8|2769041__2770363
+		Citrus_maxima|Chr8|2794283__2795521
+		Coffea_eugenioides|NC_040045.1|24012749__24014026
+		Coffea_eugenioides|NC_040045.1|24007935__24009287
+		Coffea_eugenioides|NC_040045.1|24003845__24005119
+		Coffea_eugenioides|NC_040045.1|24021644__24022891
+		Prunus_avium|SFB3|NW_018924247.1|46539__47684
+		Prunus_avium|SFB1|AB111518
+		Prunus_avium|SFB2|AB111519
+		Prunus_avium|SFB5|AY805050
+		Prunus_avium|SFB9|DQ422809
+		Prunus_avium|SFB13|DQ385844
+		Prunus_avium|SFB10|AY805053
+		Prunus_avium|SFB12|AY805054
+		Prunus_avium|SFB6|AB096858
+		Prunus_avium|SFB16|AY805056
+		Prunus_avium|SFB7|EU035976
+		Prunus_avium|SFB4|AB111521
+		Prunus_avium|NW_018921806.1|149898__151040
+		Prunus_avium|NW_018923340.1|54216__55538
+		Solanum_chilense|RXGB01001490.1|15960__17249
+		Solanum_chilense|RXGB01005248.1|2558__3913
+		Malus_domestica|XM_008344673.3
+		Malus_domestica|XM_017330766.2
+		Malus_domestica|XM_029107945.1
+		Prunus_avium|NW_018921400.1|28078__29517
+		Prunus_avium|NW_018921324.1|627815__629071
+		Prunus_avium|NW_018921552.1|551194__552507
+		Prunus_avium|NW_018921535.1|61265__62440
+		Prunus_avium|NW_018921743.1|112515__113708
+		Prunus_avium|NW_018922414.1|55151__56533
+		Prunus_avium|NW_018922415.1|88937__90262
+		Prunus_avium|NW_018921463.1|33775__35085
+		Prunus_avium|NW_018921383.1|242463__243725
+		Coffea_eugenioides|NC_040036.1|74981693__74982931
+		Coffea_eugenioides|NC_040036.1|74935095__74936318
+		Citrus_maxima|Chr9|24786410__24787732
+		Citrus_maxima|Chr4|17140862__17142202
+		Citrus_maxima|Chr8|2426153__2427334
+		Arabidopsis_thaliana|Chr4|NC_003075.7|5855161__5856327
+		Arabidopsis_thaliana|Chr5|NC_003076.8|6002770__6003909
+		Arabidopsis_thaliana|Chr1|NC_003070.9|18855147__18856337
+		Arabidopsis_thaliana|Chr3|NC_003074.8|3166653__3167867
+		Arabidopsis_thaliana|Chr1|NC_003070.9|17600004__17601173
+		Arabidopsis_thaliana|Chr1|NC_003070.9|17563931__17565106
+		Arabidopsis_thaliana|Chr4|NC_003075.7|11322411__11323664
+		Arabidopsis_thaliana|Chr2|NC_003071.7|9347947__9349161
+		Arabidopsis_thaliana|Chr4|NC_003075.7|18132583__18133863
+		Arabidopsis_thaliana|Chr1|NC_003070.9|19558028__19559299
+		Arabidopsis_thaliana|Chr3|NC_003074.8|18337305__18338507
+		Arabidopsis_thaliana|Chr1|NC_003070.9|20551452__20552633
+		Arabidopsis_thaliana|Chr1|NC_003070.9|19983411__19984637
+		Arabidopsis_thaliana|Chr1|NC_003070.9|20079694__20080839
+		Arabidopsis_thaliana|Chr5|NC_003076.8|16971312__16972499
+		Arabidopsis_thaliana|Chr1|NC_003070.9|11004242__11005444
+		Arabidopsis_thaliana|Chr1|NC_003070.9|17354123__17355529
+		Arabidopsis_thaliana|Chr2|NC_003071.7|7030155__7031378
+		Arabidopsis_thaliana|Chr3|NC_003074.8|21330182__21331396
+		Arabidopsis_thaliana|Chr5|NC_003076.8|26346317__26347495
+		Arabidopsis_thaliana|Chr3|NC_003074.8|8657736__8658944
+		Arabidopsis_thaliana|Chr2|NC_003071.7|13407492__13408655
+		Arabidopsis_thaliana|Chr1|NC_003070.9|10932713__10933912
+		Arabidopsis_thaliana|Chr1|NC_003070.9|26759798__26761042
+		Arabidopsis_thaliana|Chr1|NC_003070.9|26526212__26527345
+		Arabidopsis_thaliana|Chr1|NC_003070.9|26756253__26757362
+		Arabidopsis_thaliana|Chr5|NC_003076.8|5095652__5096821
+		Arabidopsis_thaliana|Chr1|NC_003070.9|6614162__6615214
+		Arabidopsis_thaliana|Chr5|NC_003076.8|21346423__21347478
+		Arabidopsis_thaliana|Chr3|NC_003074.8|19403020__19404387
+		Arabidopsis_thaliana|Chr2|NC_003071.7|17072586__17073719
+		Arabidopsis_thaliana|Chr2|NC_003071.7|17069938__17071065
+		Arabidopsis_thaliana|Chr2|NC_003071.7|17074905__17076116
+		Arabidopsis_thaliana|Chr5|NC_003076.8|25095373__25096635
+		Arabidopsis_thaliana|Chr5|NC_003076.8|25156326__25157465
+		Arabidopsis_thaliana|Chr4|NC_003075.7|10806195__10807430
+		Arabidopsis_thaliana|Chr4|NC_003075.7|10803558__10804853
+		Arabidopsis_thaliana|Chr4|NC_003075.7|9880259__9881455
+		Arabidopsis_thaliana|Chr1|NC_003070.9|12159884__12161131
+		Arabidopsis_thaliana|Chr1|NC_003070.9|3125978__3127126
+		Arabidopsis_thaliana|Chr5|NC_003076.8|3253900__3255045
+		Arabidopsis_thaliana|Chr2|NC_003071.7|14470335__14471510
+		Arabidopsis_thaliana|Chr1|NC_003070.9|4387872__4389110
+		Arabidopsis_thaliana|Chr1|NC_003070.9|4382223__4383611
+		Arabidopsis_thaliana|Chr1|NC_003070.9|3730630__3731640
+		Arabidopsis_thaliana|Chr1|NC_003070.9|4507221__4508528
+		Arabidopsis_thaliana|Chr3|NC_003074.8|5494533__5495615
+		Arabidopsis_thaliana|Chr2|NC_003071.7|11762061__11763104
+		Arabidopsis_thaliana|Chr3|NC_003074.8|15878609__15879763
+		Arabidopsis_thaliana|Chr2|NC_003071.7|2957561__2958715
+		Arabidopsis_thaliana|Chr3|NC_003074.8|18530329__18531480
+		Arabidopsis_thaliana|Chr5|NC_003076.8|19198125__19199375
+		Arabidopsis_thaliana|Chr3|NC_003074.8|5986682__5987827
+		Arabidopsis_thaliana|Chr3|NC_003074.8|7237911__7238999
+		Arabidopsis_thaliana|Chr3|NC_003074.8|7231570__7232682
+		Arabidopsis_thaliana|Chr4|NC_003075.7|16049558__16050865
+		Arabidopsis_thaliana|Chr3|NC_003074.8|7949116__7950402
+		Arabidopsis_thaliana|Chr2|NC_003071.7|7754261__7755445
+		Arabidopsis_thaliana|Chr3|NC_003074.8|5983196__5984320
+		Arabidopsis_thaliana|Chr1|NC_003070.9|23004499__23005650
+		Arabidopsis_thaliana|Chr3|NC_003074.8|8313334__8314422
+		Arabidopsis_thaliana|Chr3|NC_003074.8|7419973__7421160
+		Arabidopsis_thaliana|Chr4|NC_003075.7|6350928__6352031
+		Arabidopsis_thaliana|Chr3|NC_003074.8|7406326__7407429
+		Arabidopsis_thaliana|Chr3|NC_003074.8|7408246__7409349
+		Arabidopsis_thaliana|Chr3|NC_003074.8|5984827__5985993
+		Arabidopsis_thaliana|Chr3|NC_003074.8|8024798__8025817
+		Arabidopsis_thaliana|Chr2|NC_003071.7|1726138__1727268
+		Arabidopsis_thaliana|Chr3|NC_003074.8|8031341__8032459
+		Arabidopsis_thaliana|Chr3|NC_003074.8|7901899__7903041
+		Arabidopsis_thaliana|Chr3|NC_003074.8|6009413__6010558
+		Arabidopsis_thaliana|Chr3|NC_003074.8|5903453__5904613
+		Arabidopsis_thaliana|Chr3|NC_003074.8|6000848__6002026
+		Arabidopsis_thaliana|Chr3|NC_003074.8|6002783__6003973
+		Arabidopsis_thaliana|Chr3|NC_003074.8|7536719__7537951
+		Arabidopsis_thaliana|Chr1|NC_003070.9|29181110__29182261
+		Arabidopsis_thaliana|Chr3|NC_003074.8|3242750__3243862
+		Arabidopsis_thaliana|Chr4|NC_003075.7|2373999__2375135
+		Arabidopsis_thaliana|Chr3|NC_003074.8|2656716__2657825
+		Arabidopsis_thaliana|Chr3|NC_003074.8|8014809__8015960
+		Arabidopsis_thaliana|Chr1|NC_003070.9|19012173__19013306
+		Arabidopsis_thaliana|Chr2|NC_003071.7|6298936__6300024
+		Arabidopsis_thaliana|Chr3|NC_003074.8|5647577__5648725
+		Arabidopsis_thaliana|Chr1|NC_003070.9|17379544__17380656
+		Arabidopsis_thaliana|Chr1|NC_003070.9|4128607__4129701
+		Arabidopsis_thaliana|Chr1|NC_003070.9|4132967__4134094
+		Arabidopsis_thaliana|Chr3|NC_003074.8|5649932__5651056
+		Arabidopsis_thaliana|Chr3|NC_003074.8|6055597__6056703
+		Arabidopsis_thaliana|Chr1|NC_003070.9|3910833__3911924
+		Malus_domestica|XM_008390141.3
+		Prunus_avium|NW_018922470.1|165126__166544
+		Coffea_eugenioides|NC_040036.1|15473312__15474490
+		Coffea_eugenioides|NC_040037.1|7929953__7931356
+		Citrus_maxima|Chr2|52075408__52076577
+		Prunus_avium|NW_018921886.1|71724__73088
+		Malus_domestica|XM_008384838.3
+		Citrus_maxima|Chr2|22435250__22436314
+		Citrus_maxima|Chr2|22404807__22405925
+		Spinacia_oleracea|LZYP01001205.1|127982__129157
+		Spinacia_oleracea|LZYP01001205.1|131821__132990
+		Spinacia_oleracea|LZYP01000782.1|3084__4103
+		Spinacia_oleracea|LZYP01000048.1|632285__633472
+		Spinacia_oleracea|LZYP01001424.1|198828__200033
+		Spinacia_oleracea|LZYP01001205.1|119068__120147
+		Spinacia_oleracea|LZYP01001450.1|202768__203973
+		Spinacia_oleracea|LZYP01001537.1|308338__309519
+		Spinacia_oleracea|LZYP01010339.1|967__2109
+		Stenocereus_thurberi|NCQT01079366.1|6872__7996
+		Stenocereus_thurberi|NCQT01138075.1|2477__3595
+		Stenocereus_thurberi|NCQT01103141.1|3176__4312
+		Schlumbergera_truncata|FB_01
+		Stenocereus_thurberi|NCQT01138075.1|6880__7944
+		Stenocereus_thurberi|NCQT01079366.1|4026__5171
+		Coffea_eugenioides|NC_040038.1|11797019__11798182
+		Coffea_eugenioides|NC_040038.1|11791538__11792731
+		Coffea_eugenioides|NC_040038.1|11977369__11978589
+		Coffea_eugenioides|NC_040038.1|11815699__11816964
+		Coffea_eugenioides|NC_040038.1|11812545__11813699
+		Coffea_eugenioides|NC_040038.1|34026579__34027745
+		Solanum_chilense|RXGB01000523.1|130546__131655
+		Arabidopsis_thaliana|Chr3|NC_003074.8|1887369__1888619
+		Arabidopsis_thaliana|Chr3|NC_003074.8|1887336__1888619
+		Prunus_avium|NW_018922253.1|65933__67141
+		Prunus_avium|NW_018921446.1|97566__98873
+		Prunus_avium|NW_018921488.1|93330__94568
+		Malus_domestica|XM_008387569.3
+		Prunus_avium|NW_018922166.1|45069__46178
+		Malus_domestica|XM_008362538.3
+		Coffea_eugenioides|NC_040037.1|5930391__5931488
+		Coffea_eugenioides|NC_040037.1|5583176__5584312
+		Coffea_eugenioides|NC_040045.1|6016225__6017406
+		Coffea_eugenioides|NC_040039.1|5828371__5829501
+		Coffea_eugenioides|NC_040037.1|7968915__7970024
+		Coffea_eugenioides|NC_040037.1|7981155__7982453
+		Coffea_eugenioides|NC_040037.1|40490172__40491530
+		Coffea_eugenioides|NC_040035.1|40203261__40204556
+		Coffea_eugenioides|NC_040035.1|40210303__40211532
+		Coffea_eugenioides|NC_040035.1|40218974__40220191
+		Coffea_eugenioides|NC_040037.1|40477163__40478356
+		Coffea_eugenioides|NC_040037.1|40450276__40451478
+		Coffea_eugenioides|NC_040037.1|13171113__13172249
+		Coffea_eugenioides|NC_040037.1|15653759__15654982
+		Coffea_eugenioides|NC_040037.1|7253372__7254640
+		Coffea_eugenioides|NC_040037.1|7256072__7257316
+		Coffea_eugenioides|NC_040037.1|6627896__6628912
+		Coffea_eugenioides|NC_040037.1|7260579__7261862
+		Solanum_chilense|RXGB01004315.1|56670__58004
+		Solanum_chilense|RXGB01001707.1|166624__167841
+		Solanum_chilense|RXGB01032479.1|122__1333
+		Solanum_chilense|RXGB01004269.1|46096__47505
+		Solanum_chilense|RXGB01004615.1|38926__40143
+		Solanum_chilense|RXGB01005459.1|9077__10108
+		Solanum_chilense|RXGB01024125.1|1001__2179
+		Solanum_chilense|RXGB01004440.1|18793__20202
+		Solanum_chilense|RXGB01005266.1|36692__37765
+		Solanum_chilense|RXGB01000197.1|285655__286746
+		Solanum_chilense|RXGB01009522.1|13416__14537
+		Solanum_chilense|RXGB01013805.1|712__1881
+		Solanum_chilense|RXGB01002602.1|45627__46853
+		Coffea_eugenioides|NC_040037.1|7958108__7959343
+		Coffea_eugenioides|NC_040037.1|23321732__23322943
+		Coffea_eugenioides|NC_040041.1|6942747__6943982
+		Coffea_eugenioides|NC_040037.1|20480500__20481873
+		Coffea_eugenioides|NC_040037.1|6338132__6339355
+		Coffea_eugenioides|NC_040037.1|6342859__6344130
+		Solanum_chilense|RXGB01004850.1|10438__11634
+		Coffea_eugenioides|NC_040037.1|7961435__7962598
+		Solanum_chilense|RXGB01004315.1|63812__64978
+		Solanum_chilense|RXGB01005254.1|76376__77506
+		Solanum_chilense|RXGB01022471.1|1964__3079
+		Coffea_eugenioides|NC_040040.1|19645923__19647137
+		Solanum_chilense|RXGB01005564.1|23693__24865
+		Solanum_chilense|RXGB01011865.1|1169__2278
+		Arabidopsis_thaliana|Chr3|NC_003074.8|8622061__8623155
+		Coffea_eugenioides|NC_040037.1|9244270__9245400
+		Citrus_maxima|Chr9|20090165__20091262
+		Malus_domestica|XM_008381926.2
+		Malus_domestica|XM_008382103.3
+		Malus_domestica|XM_008347409.1
+		Prunus_avium|NW_018922115.1|6643__7776
+		Malus_domestica|XM_008344235.2
+		Prunus_avium|NW_018921643.1|312679__313944
+		Citrus_maxima|Chr5|41617961__41619037
+		Prunus_avium|NW_018931006.1|499__1575
+		Prunus_avium|NW_018921447.1|36084__37295
+		Malus_domestica|XM_008346311.3
+		Malus_domestica|XM_008365033.3
+		Prunus_avium|NW_018921876.1|17773__18981
+		Solanum_chilense|RXGB01005261.1|5766__6947
+		Prunus_avium|NW_018922915.1|48651__49835
+		Malus_domestica|XM_008385918.3
+		Malus_domestica|XM_008372775.3
+		Coffea_eugenioides|NC_040043.1|2876854__2878071
+		Coffea_eugenioides|NC_040043.1|2871232__2872344
+		Citrus_maxima|Chr6|21098741__21099877
+		Citrus_maxima|Chr6|21107237__21108337
+		Citrus_maxima|Chr8|13308694__13309806
+		Citrus_maxima|Chr8|13286635__13287747
+		Citrus_maxima|Chr8|13283497__13284606
+		Citrus_maxima|Chr8|13173938__13175038
+		Citrus_maxima|Chr7|14963347__14964498
+		Citrus_maxima|Chr7|14991555__14992718
+		Coffea_eugenioides|NC_040041.1|38058964__38060145
+		Coffea_eugenioides|NC_040039.1|10820728__10821885
+		Coffea_eugenioides|NC_040040.1|9213991__9215160
+		Coffea_eugenioides|NC_040045.1|116529__117662
+		Coffea_eugenioides|NC_040036.1|75085165__75086298
+		Spinacia_oleracea|LZYP01000004.1|2229763__2230776
+		Spinacia_oleracea|LZYP01000703.1|2826__4352
+		Spinacia_oleracea|LZYP01000004.1|2232589__2233848
+		Stenocereus_thurberi|NCQT01101783.1|1053__2276
+		Spinacia_oleracea|LZYP01001595.1|23176__24270
+		Citrus_maxima|Chr2|52086089__52087282
+		Arabidopsis_thaliana|Chr4|NC_003075.7|7441815__7443041
+		Arabidopsis_thaliana|Chr4|NC_003075.7|11813890__11815074
+		Spinacia_oleracea|LZYP01002102.1|4369__5517
+		Spinacia_oleracea|LZYP01000034.1|387578__388699
+		Spinacia_oleracea|LZYP01000034.1|395665__396858
+		Spinacia_oleracea|LZYP01000034.1|381227__382477
+		Schlumbergera_truncata|FB_02
+		Spinacia_oleracea|LZYP01000509.1|53908__54984
+		Spinacia_oleracea|LZYP01000586.1|63225__64271
+		Spinacia_oleracea|LZYP01001231.1|92124__93197
+		Spinacia_oleracea|LZYP01000027.1|881535__882683
+		Stenocereus_thurberi|NCQT01065004.1|1584__2747
+		Stenocereus_thurberi|NCQT01120863.1|10653__11846
+		Stenocereus_thurberi|NCQT01061416.1|114__1244
+		Spinacia_oleracea|LZYP01000779.1|133301__134422
+		Spinacia_oleracea|LZYP01000841.1|345127__346218
+		Spinacia_oleracea|LZYP01000311.1|198767__199960
+		Stenocereus_thurberi|NCQT01105790.1|1822__3015
+		Spinacia_oleracea|LZYP01000779.1|82080__83228
+		Spinacia_oleracea|LZYP01000779.1|570529__571779
+		Spinacia_oleracea|LZYP01000035.1|689302__690372
+		Schlumbergera_truncata|FB_04
+		Stenocereus_thurberi|NCQT01112047.1|30114__31307
+		Schlumbergera_truncata|FB_03
+		Spinacia_oleracea|LZYP01001709.1|62233__63432
+		Spinacia_oleracea|LZYP01001709.1|71016__72224
+		Spinacia_oleracea|LZYP01002189.1|21261__22493
+		Spinacia_oleracea|LZYP01000373.1|10085__11224
+		Spinacia_oleracea|LZYP01000831.1|78754__79959
+		Spinacia_oleracea|LZYP01001709.1|140606__141712
+		Spinacia_oleracea|LZYP01001709.1|11963__13183
+		Spinacia_oleracea|LZYP01006265.1|1149__2276
+		Spinacia_oleracea|LZYP01001709.1|49306__50520
+		Citrus_maxima|Chr8|1089570__1090667
+		Arabidopsis_thaliana|Chr5|NC_003076.8|20131448__20132527
+		Citrus_maxima|Chr8|11603628__11604800
+		Arabidopsis_thaliana|Chr3|NC_003074.8|2510871__2512124
+		Coffea_eugenioides|NC_040045.1|13243735__13245054
+		Coffea_eugenioides|NC_040045.1|13239284__13240540
+		Citrus_maxima|Chr2|26405869__26407005
+		Citrus_maxima|Chr2|26395555__26396787
+		Citrus_maxima|Chr2|26410938__26412131
+		Coffea_eugenioides|NC_040040.1|50131556__50132770
+		Coffea_eugenioides|NC_040040.1|13969427__13970626
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Spinacia_oleracea|LZYP01000057.1|408293__409567,
+		2	Stenocereus_thurberi|NCQT01005222.1|5545__7026,
+		3	Schlumbergera_truncata|FB_10,
+		4	Stenocereus_thurberi|NCQT01079924.1|4343__5686,
+		5	Stenocereus_thurberi|NCQT01137885.1|5657__6937,
+		6	Schlumbergera_truncata|FB_09,
+		7	Schlumbergera_truncata|FB_08,
+		8	Schlumbergera_truncata|FB_15,
+		9	Schlumbergera_truncata|FB_16,
+		10	Schlumbergera_truncata|FB_14,
+		11	Schlumbergera_truncata|FB_17,
+		12	Schlumbergera_truncata|FB_13,
+		13	Stenocereus_thurberi|NCQT01079924.1|566__1909,
+		14	Schlumbergera_truncata|FB_11,
+		15	Schlumbergera_truncata|FB_12,
+		16	Stenocereus_thurberi|NCQT01064740.1|2154__3428,
+		17	Stenocereus_thurberi|NCQT01159269.1|1912__3273,
+		18	Stenocereus_thurberi|NCQT01086271.1|1779__3158,
+		19	Stenocereus_thurberi|NCQT01136539.1|6688__8193,
+		20	Schlumbergera_truncata|FB_07,
+		21	Spinacia_oleracea|LZYP01000938.1|182939__184447,
+		22	Solanum_chilense|RXGB01003116.1|6022__7227,
+		23	Solanum_chilense|RXGB01003116.1|8957__10162,
+		24	Solanum_chilense|RXGB01003116.1|11703__12908,
+		25	Solanum_chilense|RXGB01003116.1|2647__3828,
+		26	Solanum_chilense|RXGB01012564.1|2848__3969,
+		27	Solanum_chilense|RXGB01023942.1|1397__2674,
+		28	Solanum_chilense|RXGB01006023.1|7205__8350,
+		29	Coffea_eugenioides|NC_040040.1|4595970__4597052,
+		30	Spinacia_oleracea|LZYP01001725.1|145395__146717,
+		31	Spinacia_oleracea|LZYP01000030.1|1879804__1880934,
+		32	Stenocereus_thurberi|NCQT01109187.1|3448__4770,
+		33	Schlumbergera_truncata|FB_20,
+		34	Spinacia_oleracea|LZYP01000055.1|202238__203374,
+		35	Schlumbergera_truncata|FB_19,
+		36	Citrus_maxima|S6-SLF12|1048271__1049392,
+		37	Citrus_maxima|S6-SLF11|1052408__1053583,
+		38	Citrus_maxima|S6-SLF6|1150606__1151748,
+		39	Citrus_maxima|S6-SLF4|1187590__1188705,
+		40	Citrus_maxima|S6-SLF2|1259356__1260480,
+		41	Citrus_maxima|S6-SLF3|1253040__1254155,
+		42	Citrus_maxima|S6-SLF1|1262358__1263458,
+		43	Citrus_maxima|S6-SLF8|1082162__1083301,
+		44	Citrus_maxima|S6-SLF9|1086056__1087198,
+		45	Citrus_maxima|S6-SLF5|1155846__1156970,
+		46	Citrus_maxima|S6-SLF7|1108265__1109386,
+		47	Citrus_maxima|S6-SLF10|1054856__1056001,
+		48	Prunus_avium|NW_018922019.1|255205__256356,
+		49	Malus_domestica|XM_008343476.2,
+		50	Stenocereus_thurberi|NCQT01051356.1|2015__3238,
+		51	Spinacia_oleracea|LZYP01002067.1|79312__80526,
+		52	Spinacia_oleracea|LZYP01000051.1|770725__771825,
+		53	Stenocereus_thurberi|NCQT01034509.1|19565__20824,
+		54	Schlumbergera_truncata|FB_18,
+		55	Solanum_chilense|RXGB01007378.1|14558__15655,
+		56	Coffea_eugenioides|NC_040039.1|3159958__3161067,
+		57	Solanum_chilense|SLF-17|RXGB01005172.1|1337__2518,
+		58	Solanum_chilense|SLF-2|RXGB01007648.1|38246__39427,
+		59	Solanum_chilense|SLF-21|RXGB01008044.1|30916__32229,
+		60	Solanum_chilense|SLF-5|RXGB01018085.1|3989__5158,
+		61	Solanum_chilense|SLF-6|RXGB01010666.1|5861__7006,
+		62	Solanum_chilense|SLF-13|RXGB01021912.1|1039__2241,
+		63	Solanum_chilense|SLF-4|RXGB01002813.1|85037__86203,
+		64	Solanum_chilense|SLF-11|RXGB01001409.1|49611__50783,
+		65	Solanum_chilense|SLF-12|RXGB01007129.1|18978__20141,
+		66	Solanum_chilense|SLF-9|RXGB01000120.1|16065__17207,
+		67	Solanum_chilense|SLF-20|RXGB01002505.1|54984__56150,
+		68	Solanum_chilense|SLF-23|RXGB01004977.1|85449__86606,
+		69	Solanum_chilense|SLF-7|RXGB01007022.1|6797__8002,
+		70	Solanum_chilense|SLF-22|RXGB01001630.1|7151__8284,
+		71	Solanum_chilense|SLF-1|RXGB01002604.1|29645__30820,
+		72	Coffea_eugenioides|SLF|NC_040043.1|41616136__41617161,
+		73	Coffea_eugenioides|SLF|NC_040042.1|3617341__3618465,
+		74	Coffea_eugenioides|SLF|NC_040035.1|32961919__32963022,
+		75	Coffea_eugenioides|SLF|NC_040039.1|31458897__31460123,
+		76	Coffea_eugenioides|SLF|NC_040035.1|1878203__1879351,
+		77	Coffea_eugenioides|SLF|NC_040041.1|10705995__10707212,
+		78	Coffea_eugenioides|SLF|NC_040042.1|2727794__2728981,
+		79	Antirrhinum_hispanicum|SLF-S5D|AJ515536|6529__7653,
+		80	Antirrhinum_hispanicum|SLF-S4D|AJ515534|5054__6178,
+		81	Antirrhinum_hispanicum|SLF-S2D|KT369121|119119__120243,
+		82	Antirrhinum_hispanicum|SLF-S5K|AJ515536|42972__44120,
+		83	Antirrhinum_hispanicum|SLF-S1K|AJ515535|55537__56685,
+		84	Antirrhinum_hispanicum|SLF-S2C|KT369121|129041__130228,
+		85	Antirrhinum_hispanicum|SLF-S2A|KT369121|108999__110204,
+		86	Antirrhinum_hispanicum|SLF-S5A|AJ515536|13483__14658,
+		87	Antirrhinum_hispanicum|SLF-S4A|AJ515534|21200__22375,
+		88	Antirrhinum_hispanicum|SLF-S5E|AJ515536|64511__65665,
+		89	Antirrhinum_hispanicum|SLF-S1E|AJ515535|37821__38975,
+		90	Antirrhinum_hispanicum|SLF-S5|AJ515536|36179__37309,
+		91	Antirrhinum_hispanicum|SLF-S1|AJ515535|62272__63402,
+		92	Antirrhinum_hispanicum|SLF-S4|AJ515534|44134__45264,
+		93	Antirrhinum_hispanicum|SLF-S2|KT369121|86472__87602,
+		94	Citrus_maxima|Chr1|18451214__18452290,
+		95	Citrus_maxima|Chr6|22957213__22958403,
+		96	Citrus_maxima|Chr6|22063352__22064530,
+		97	Prunus_avium|NW_018921449.1|182998__184425,
+		98	Prunus_avium|SLFL7A|NW_018921718.1|628204__629532,
+		99	Prunus_avium|SLFL3|NW_018925187.1|41091__42341,
+		100	Malus_domestica|XM_008372398.2,
+		101	Prunus_avium|SLFL1|AB280953,
+		102	Malus_domestica|SFBB|XM_029097963.1,
+		103	Malus_domestica|SFBB|XM_008364263.2,
+		104	Malus_domestica|SFBB|XM_029098579.1,
+		105	Malus_domestica|SFBB|NM_001328801.1,
+		106	Malus_domestica|SFBB|XM_029097976.1,
+		107	Malus_domestica|SFBB|XM_029097937.1,
+		108	Malus_domestica|SFBB|XM_008344808.3,
+		109	Malus_domestica|SFBB|XM_017324144.2,
+		110	Malus_domestica|SFBB|XM_029096717.1,
+		111	Malus_domestica|SFBB|XM_029097876.1,
+		112	Malus_domestica|SFBB|XM_029097347.1,
+		113	Malus_domestica|SFBB|XM_008340205.3,
+		114	Malus_domestica|SFBB|XM_029097930.1,
+		115	Malus_domestica|SFBB|XM_008388108.3,
+		116	Malus_domestica|SFBB|XM_029097397.1,
+		117	Malus_domestica|SFBB|XM_008355598.3,
+		118	Malus_domestica|SFBB|NM_001328921.1,
+		119	Malus_domestica|XM_029094498.1,
+		120	Malus_domestica|XM_029108083.1,
+		121	Malus_domestica|XM_029108075.1,
+		122	Malus_domestica|XM_008390723.2,
+		123	Prunus_avium|SLFL2|NW_018927702.1|301__1575,
+		124	Prunus_avium|SLFL6|LC438401,
+		125	Citrus_maxima|Chr5|18824416__18825597,
+		126	Prunus_avium|NW_018921731.1|64338__65471,
+		127	Malus_domestica|XM_008344550.3,
+		128	Citrus_maxima|Chr2|41876704__41877864,
+		129	Stenocereus_thurberi|NCQT01153715.1|293__1594,
+		130	Schlumbergera_truncata|FB_05,
+		131	Spinacia_oleracea|LZYP01000033.1|341819__343042,
+		132	Solanum_chilense|RXGB01001394.1|89962__91419,
+		133	Coffea_eugenioides|NC_040043.1|841057__842427,
+		134	Coffea_eugenioides|NC_040043.1|823953__825233,
+		135	Solanum_chilense|RXGB01004244.1|6799__7956,
+		136	Spinacia_oleracea|LZYP01000701.1|30204__31295,
+		137	Spinacia_oleracea|LZYP01001791.1|78121__79701,
+		138	Stenocereus_thurberi|NCQT01094215.1|6176__7300,
+		139	Stenocereus_thurberi|NCQT01120313.1|4580__5755,
+		140	Stenocereus_thurberi|NCQT01125906.1|2189__3376,
+		141	Stenocereus_thurberi|NCQT01143535.1|21972__23045,
+		142	Stenocereus_thurberi|NCQT01094600.1|12946__14019,
+		143	Stenocereus_thurberi|NCQT01015545.1|5443__6597,
+		144	Stenocereus_thurberi|NCQT01094600.1|18818__19924,
+		145	Stenocereus_thurberi|NCQT01015545.1|105__1217,
+		146	Schlumbergera_truncata|FB_06,
+		147	Stenocereus_thurberi|NCQT01053214.1|604__1710,
+		148	Spinacia_oleracea|LZYP01000149.1|585315__586490,
+		149	Stenocereus_thurberi|NCQT01133548.1|9054__10214,
+		150	Spinacia_oleracea|LZYP01000149.1|439948__441078,
+		151	Spinacia_oleracea|LZYP01000149.1|417083__418258,
+		152	Spinacia_oleracea|LZYP01000149.1|460328__461503,
+		153	Spinacia_oleracea|LZYP01000149.1|452726__453886,
+		154	Spinacia_oleracea|LZYP01000247.1|248857__250119,
+		155	Spinacia_oleracea|LZYP01000247.1|244537__245694,
+		156	Citrus_maxima|Chr8|2781257__2782597,
+		157	Citrus_maxima|Chr8|2762501__2763997,
+		158	Citrus_maxima|Chr8|2769041__2770363,
+		159	Citrus_maxima|Chr8|2794283__2795521,
+		160	Coffea_eugenioides|NC_040045.1|24012749__24014026,
+		161	Coffea_eugenioides|NC_040045.1|24007935__24009287,
+		162	Coffea_eugenioides|NC_040045.1|24003845__24005119,
+		163	Coffea_eugenioides|NC_040045.1|24021644__24022891,
+		164	Prunus_avium|SFB3|NW_018924247.1|46539__47684,
+		165	Prunus_avium|SFB1|AB111518,
+		166	Prunus_avium|SFB2|AB111519,
+		167	Prunus_avium|SFB5|AY805050,
+		168	Prunus_avium|SFB9|DQ422809,
+		169	Prunus_avium|SFB13|DQ385844,
+		170	Prunus_avium|SFB10|AY805053,
+		171	Prunus_avium|SFB12|AY805054,
+		172	Prunus_avium|SFB6|AB096858,
+		173	Prunus_avium|SFB16|AY805056,
+		174	Prunus_avium|SFB7|EU035976,
+		175	Prunus_avium|SFB4|AB111521,
+		176	Prunus_avium|NW_018921806.1|149898__151040,
+		177	Prunus_avium|NW_018923340.1|54216__55538,
+		178	Solanum_chilense|RXGB01001490.1|15960__17249,
+		179	Solanum_chilense|RXGB01005248.1|2558__3913,
+		180	Malus_domestica|XM_008344673.3,
+		181	Malus_domestica|XM_017330766.2,
+		182	Malus_domestica|XM_029107945.1,
+		183	Prunus_avium|NW_018921400.1|28078__29517,
+		184	Prunus_avium|NW_018921324.1|627815__629071,
+		185	Prunus_avium|NW_018921552.1|551194__552507,
+		186	Prunus_avium|NW_018921535.1|61265__62440,
+		187	Prunus_avium|NW_018921743.1|112515__113708,
+		188	Prunus_avium|NW_018922414.1|55151__56533,
+		189	Prunus_avium|NW_018922415.1|88937__90262,
+		190	Prunus_avium|NW_018921463.1|33775__35085,
+		191	Prunus_avium|NW_018921383.1|242463__243725,
+		192	Coffea_eugenioides|NC_040036.1|74981693__74982931,
+		193	Coffea_eugenioides|NC_040036.1|74935095__74936318,
+		194	Citrus_maxima|Chr9|24786410__24787732,
+		195	Citrus_maxima|Chr4|17140862__17142202,
+		196	Citrus_maxima|Chr8|2426153__2427334,
+		197	Arabidopsis_thaliana|Chr4|NC_003075.7|5855161__5856327,
+		198	Arabidopsis_thaliana|Chr5|NC_003076.8|6002770__6003909,
+		199	Arabidopsis_thaliana|Chr1|NC_003070.9|18855147__18856337,
+		200	Arabidopsis_thaliana|Chr3|NC_003074.8|3166653__3167867,
+		201	Arabidopsis_thaliana|Chr1|NC_003070.9|17600004__17601173,
+		202	Arabidopsis_thaliana|Chr1|NC_003070.9|17563931__17565106,
+		203	Arabidopsis_thaliana|Chr4|NC_003075.7|11322411__11323664,
+		204	Arabidopsis_thaliana|Chr2|NC_003071.7|9347947__9349161,
+		205	Arabidopsis_thaliana|Chr4|NC_003075.7|18132583__18133863,
+		206	Arabidopsis_thaliana|Chr1|NC_003070.9|19558028__19559299,
+		207	Arabidopsis_thaliana|Chr3|NC_003074.8|18337305__18338507,
+		208	Arabidopsis_thaliana|Chr1|NC_003070.9|20551452__20552633,
+		209	Arabidopsis_thaliana|Chr1|NC_003070.9|19983411__19984637,
+		210	Arabidopsis_thaliana|Chr1|NC_003070.9|20079694__20080839,
+		211	Arabidopsis_thaliana|Chr5|NC_003076.8|16971312__16972499,
+		212	Arabidopsis_thaliana|Chr1|NC_003070.9|11004242__11005444,
+		213	Arabidopsis_thaliana|Chr1|NC_003070.9|17354123__17355529,
+		214	Arabidopsis_thaliana|Chr2|NC_003071.7|7030155__7031378,
+		215	Arabidopsis_thaliana|Chr3|NC_003074.8|21330182__21331396,
+		216	Arabidopsis_thaliana|Chr5|NC_003076.8|26346317__26347495,
+		217	Arabidopsis_thaliana|Chr3|NC_003074.8|8657736__8658944,
+		218	Arabidopsis_thaliana|Chr2|NC_003071.7|13407492__13408655,
+		219	Arabidopsis_thaliana|Chr1|NC_003070.9|10932713__10933912,
+		220	Arabidopsis_thaliana|Chr1|NC_003070.9|26759798__26761042,
+		221	Arabidopsis_thaliana|Chr1|NC_003070.9|26526212__26527345,
+		222	Arabidopsis_thaliana|Chr1|NC_003070.9|26756253__26757362,
+		223	Arabidopsis_thaliana|Chr5|NC_003076.8|5095652__5096821,
+		224	Arabidopsis_thaliana|Chr1|NC_003070.9|6614162__6615214,
+		225	Arabidopsis_thaliana|Chr5|NC_003076.8|21346423__21347478,
+		226	Arabidopsis_thaliana|Chr3|NC_003074.8|19403020__19404387,
+		227	Arabidopsis_thaliana|Chr2|NC_003071.7|17072586__17073719,
+		228	Arabidopsis_thaliana|Chr2|NC_003071.7|17069938__17071065,
+		229	Arabidopsis_thaliana|Chr2|NC_003071.7|17074905__17076116,
+		230	Arabidopsis_thaliana|Chr5|NC_003076.8|25095373__25096635,
+		231	Arabidopsis_thaliana|Chr5|NC_003076.8|25156326__25157465,
+		232	Arabidopsis_thaliana|Chr4|NC_003075.7|10806195__10807430,
+		233	Arabidopsis_thaliana|Chr4|NC_003075.7|10803558__10804853,
+		234	Arabidopsis_thaliana|Chr4|NC_003075.7|9880259__9881455,
+		235	Arabidopsis_thaliana|Chr1|NC_003070.9|12159884__12161131,
+		236	Arabidopsis_thaliana|Chr1|NC_003070.9|3125978__3127126,
+		237	Arabidopsis_thaliana|Chr5|NC_003076.8|3253900__3255045,
+		238	Arabidopsis_thaliana|Chr2|NC_003071.7|14470335__14471510,
+		239	Arabidopsis_thaliana|Chr1|NC_003070.9|4387872__4389110,
+		240	Arabidopsis_thaliana|Chr1|NC_003070.9|4382223__4383611,
+		241	Arabidopsis_thaliana|Chr1|NC_003070.9|3730630__3731640,
+		242	Arabidopsis_thaliana|Chr1|NC_003070.9|4507221__4508528,
+		243	Arabidopsis_thaliana|Chr3|NC_003074.8|5494533__5495615,
+		244	Arabidopsis_thaliana|Chr2|NC_003071.7|11762061__11763104,
+		245	Arabidopsis_thaliana|Chr3|NC_003074.8|15878609__15879763,
+		246	Arabidopsis_thaliana|Chr2|NC_003071.7|2957561__2958715,
+		247	Arabidopsis_thaliana|Chr3|NC_003074.8|18530329__18531480,
+		248	Arabidopsis_thaliana|Chr5|NC_003076.8|19198125__19199375,
+		249	Arabidopsis_thaliana|Chr3|NC_003074.8|5986682__5987827,
+		250	Arabidopsis_thaliana|Chr3|NC_003074.8|7237911__7238999,
+		251	Arabidopsis_thaliana|Chr3|NC_003074.8|7231570__7232682,
+		252	Arabidopsis_thaliana|Chr4|NC_003075.7|16049558__16050865,
+		253	Arabidopsis_thaliana|Chr3|NC_003074.8|7949116__7950402,
+		254	Arabidopsis_thaliana|Chr2|NC_003071.7|7754261__7755445,
+		255	Arabidopsis_thaliana|Chr3|NC_003074.8|5983196__5984320,
+		256	Arabidopsis_thaliana|Chr1|NC_003070.9|23004499__23005650,
+		257	Arabidopsis_thaliana|Chr3|NC_003074.8|8313334__8314422,
+		258	Arabidopsis_thaliana|Chr3|NC_003074.8|7419973__7421160,
+		259	Arabidopsis_thaliana|Chr4|NC_003075.7|6350928__6352031,
+		260	Arabidopsis_thaliana|Chr3|NC_003074.8|7406326__7407429,
+		261	Arabidopsis_thaliana|Chr3|NC_003074.8|7408246__7409349,
+		262	Arabidopsis_thaliana|Chr3|NC_003074.8|5984827__5985993,
+		263	Arabidopsis_thaliana|Chr3|NC_003074.8|8024798__8025817,
+		264	Arabidopsis_thaliana|Chr2|NC_003071.7|1726138__1727268,
+		265	Arabidopsis_thaliana|Chr3|NC_003074.8|8031341__8032459,
+		266	Arabidopsis_thaliana|Chr3|NC_003074.8|7901899__7903041,
+		267	Arabidopsis_thaliana|Chr3|NC_003074.8|6009413__6010558,
+		268	Arabidopsis_thaliana|Chr3|NC_003074.8|5903453__5904613,
+		269	Arabidopsis_thaliana|Chr3|NC_003074.8|6000848__6002026,
+		270	Arabidopsis_thaliana|Chr3|NC_003074.8|6002783__6003973,
+		271	Arabidopsis_thaliana|Chr3|NC_003074.8|7536719__7537951,
+		272	Arabidopsis_thaliana|Chr1|NC_003070.9|29181110__29182261,
+		273	Arabidopsis_thaliana|Chr3|NC_003074.8|3242750__3243862,
+		274	Arabidopsis_thaliana|Chr4|NC_003075.7|2373999__2375135,
+		275	Arabidopsis_thaliana|Chr3|NC_003074.8|2656716__2657825,
+		276	Arabidopsis_thaliana|Chr3|NC_003074.8|8014809__8015960,
+		277	Arabidopsis_thaliana|Chr1|NC_003070.9|19012173__19013306,
+		278	Arabidopsis_thaliana|Chr2|NC_003071.7|6298936__6300024,
+		279	Arabidopsis_thaliana|Chr3|NC_003074.8|5647577__5648725,
+		280	Arabidopsis_thaliana|Chr1|NC_003070.9|17379544__17380656,
+		281	Arabidopsis_thaliana|Chr1|NC_003070.9|4128607__4129701,
+		282	Arabidopsis_thaliana|Chr1|NC_003070.9|4132967__4134094,
+		283	Arabidopsis_thaliana|Chr3|NC_003074.8|5649932__5651056,
+		284	Arabidopsis_thaliana|Chr3|NC_003074.8|6055597__6056703,
+		285	Arabidopsis_thaliana|Chr1|NC_003070.9|3910833__3911924,
+		286	Malus_domestica|XM_008390141.3,
+		287	Prunus_avium|NW_018922470.1|165126__166544,
+		288	Coffea_eugenioides|NC_040036.1|15473312__15474490,
+		289	Coffea_eugenioides|NC_040037.1|7929953__7931356,
+		290	Citrus_maxima|Chr2|52075408__52076577,
+		291	Prunus_avium|NW_018921886.1|71724__73088,
+		292	Malus_domestica|XM_008384838.3,
+		293	Citrus_maxima|Chr2|22435250__22436314,
+		294	Citrus_maxima|Chr2|22404807__22405925,
+		295	Spinacia_oleracea|LZYP01001205.1|127982__129157,
+		296	Spinacia_oleracea|LZYP01001205.1|131821__132990,
+		297	Spinacia_oleracea|LZYP01000782.1|3084__4103,
+		298	Spinacia_oleracea|LZYP01000048.1|632285__633472,
+		299	Spinacia_oleracea|LZYP01001424.1|198828__200033,
+		300	Spinacia_oleracea|LZYP01001205.1|119068__120147,
+		301	Spinacia_oleracea|LZYP01001450.1|202768__203973,
+		302	Spinacia_oleracea|LZYP01001537.1|308338__309519,
+		303	Spinacia_oleracea|LZYP01010339.1|967__2109,
+		304	Stenocereus_thurberi|NCQT01079366.1|6872__7996,
+		305	Stenocereus_thurberi|NCQT01138075.1|2477__3595,
+		306	Stenocereus_thurberi|NCQT01103141.1|3176__4312,
+		307	Schlumbergera_truncata|FB_01,
+		308	Stenocereus_thurberi|NCQT01138075.1|6880__7944,
+		309	Stenocereus_thurberi|NCQT01079366.1|4026__5171,
+		310	Coffea_eugenioides|NC_040038.1|11797019__11798182,
+		311	Coffea_eugenioides|NC_040038.1|11791538__11792731,
+		312	Coffea_eugenioides|NC_040038.1|11977369__11978589,
+		313	Coffea_eugenioides|NC_040038.1|11815699__11816964,
+		314	Coffea_eugenioides|NC_040038.1|11812545__11813699,
+		315	Coffea_eugenioides|NC_040038.1|34026579__34027745,
+		316	Solanum_chilense|RXGB01000523.1|130546__131655,
+		317	Arabidopsis_thaliana|Chr3|NC_003074.8|1887369__1888619,
+		318	Arabidopsis_thaliana|Chr3|NC_003074.8|1887336__1888619,
+		319	Prunus_avium|NW_018922253.1|65933__67141,
+		320	Prunus_avium|NW_018921446.1|97566__98873,
+		321	Prunus_avium|NW_018921488.1|93330__94568,
+		322	Malus_domestica|XM_008387569.3,
+		323	Prunus_avium|NW_018922166.1|45069__46178,
+		324	Malus_domestica|XM_008362538.3,
+		325	Coffea_eugenioides|NC_040037.1|5930391__5931488,
+		326	Coffea_eugenioides|NC_040037.1|5583176__5584312,
+		327	Coffea_eugenioides|NC_040045.1|6016225__6017406,
+		328	Coffea_eugenioides|NC_040039.1|5828371__5829501,
+		329	Coffea_eugenioides|NC_040037.1|7968915__7970024,
+		330	Coffea_eugenioides|NC_040037.1|7981155__7982453,
+		331	Coffea_eugenioides|NC_040037.1|40490172__40491530,
+		332	Coffea_eugenioides|NC_040035.1|40203261__40204556,
+		333	Coffea_eugenioides|NC_040035.1|40210303__40211532,
+		334	Coffea_eugenioides|NC_040035.1|40218974__40220191,
+		335	Coffea_eugenioides|NC_040037.1|40477163__40478356,
+		336	Coffea_eugenioides|NC_040037.1|40450276__40451478,
+		337	Coffea_eugenioides|NC_040037.1|13171113__13172249,
+		338	Coffea_eugenioides|NC_040037.1|15653759__15654982,
+		339	Coffea_eugenioides|NC_040037.1|7253372__7254640,
+		340	Coffea_eugenioides|NC_040037.1|7256072__7257316,
+		341	Coffea_eugenioides|NC_040037.1|6627896__6628912,
+		342	Coffea_eugenioides|NC_040037.1|7260579__7261862,
+		343	Solanum_chilense|RXGB01004315.1|56670__58004,
+		344	Solanum_chilense|RXGB01001707.1|166624__167841,
+		345	Solanum_chilense|RXGB01032479.1|122__1333,
+		346	Solanum_chilense|RXGB01004269.1|46096__47505,
+		347	Solanum_chilense|RXGB01004615.1|38926__40143,
+		348	Solanum_chilense|RXGB01005459.1|9077__10108,
+		349	Solanum_chilense|RXGB01024125.1|1001__2179,
+		350	Solanum_chilense|RXGB01004440.1|18793__20202,
+		351	Solanum_chilense|RXGB01005266.1|36692__37765,
+		352	Solanum_chilense|RXGB01000197.1|285655__286746,
+		353	Solanum_chilense|RXGB01009522.1|13416__14537,
+		354	Solanum_chilense|RXGB01013805.1|712__1881,
+		355	Solanum_chilense|RXGB01002602.1|45627__46853,
+		356	Coffea_eugenioides|NC_040037.1|7958108__7959343,
+		357	Coffea_eugenioides|NC_040037.1|23321732__23322943,
+		358	Coffea_eugenioides|NC_040041.1|6942747__6943982,
+		359	Coffea_eugenioides|NC_040037.1|20480500__20481873,
+		360	Coffea_eugenioides|NC_040037.1|6338132__6339355,
+		361	Coffea_eugenioides|NC_040037.1|6342859__6344130,
+		362	Solanum_chilense|RXGB01004850.1|10438__11634,
+		363	Coffea_eugenioides|NC_040037.1|7961435__7962598,
+		364	Solanum_chilense|RXGB01004315.1|63812__64978,
+		365	Solanum_chilense|RXGB01005254.1|76376__77506,
+		366	Solanum_chilense|RXGB01022471.1|1964__3079,
+		367	Coffea_eugenioides|NC_040040.1|19645923__19647137,
+		368	Solanum_chilense|RXGB01005564.1|23693__24865,
+		369	Solanum_chilense|RXGB01011865.1|1169__2278,
+		370	Arabidopsis_thaliana|Chr3|NC_003074.8|8622061__8623155,
+		371	Coffea_eugenioides|NC_040037.1|9244270__9245400,
+		372	Citrus_maxima|Chr9|20090165__20091262,
+		373	Malus_domestica|XM_008381926.2,
+		374	Malus_domestica|XM_008382103.3,
+		375	Malus_domestica|XM_008347409.1,
+		376	Prunus_avium|NW_018922115.1|6643__7776,
+		377	Malus_domestica|XM_008344235.2,
+		378	Prunus_avium|NW_018921643.1|312679__313944,
+		379	Citrus_maxima|Chr5|41617961__41619037,
+		380	Prunus_avium|NW_018931006.1|499__1575,
+		381	Prunus_avium|NW_018921447.1|36084__37295,
+		382	Malus_domestica|XM_008346311.3,
+		383	Malus_domestica|XM_008365033.3,
+		384	Prunus_avium|NW_018921876.1|17773__18981,
+		385	Solanum_chilense|RXGB01005261.1|5766__6947,
+		386	Prunus_avium|NW_018922915.1|48651__49835,
+		387	Malus_domestica|XM_008385918.3,
+		388	Malus_domestica|XM_008372775.3,
+		389	Coffea_eugenioides|NC_040043.1|2876854__2878071,
+		390	Coffea_eugenioides|NC_040043.1|2871232__2872344,
+		391	Citrus_maxima|Chr6|21098741__21099877,
+		392	Citrus_maxima|Chr6|21107237__21108337,
+		393	Citrus_maxima|Chr8|13308694__13309806,
+		394	Citrus_maxima|Chr8|13286635__13287747,
+		395	Citrus_maxima|Chr8|13283497__13284606,
+		396	Citrus_maxima|Chr8|13173938__13175038,
+		397	Citrus_maxima|Chr7|14963347__14964498,
+		398	Citrus_maxima|Chr7|14991555__14992718,
+		399	Coffea_eugenioides|NC_040041.1|38058964__38060145,
+		400	Coffea_eugenioides|NC_040039.1|10820728__10821885,
+		401	Coffea_eugenioides|NC_040040.1|9213991__9215160,
+		402	Coffea_eugenioides|NC_040045.1|116529__117662,
+		403	Coffea_eugenioides|NC_040036.1|75085165__75086298,
+		404	Spinacia_oleracea|LZYP01000004.1|2229763__2230776,
+		405	Spinacia_oleracea|LZYP01000703.1|2826__4352,
+		406	Spinacia_oleracea|LZYP01000004.1|2232589__2233848,
+		407	Stenocereus_thurberi|NCQT01101783.1|1053__2276,
+		408	Spinacia_oleracea|LZYP01001595.1|23176__24270,
+		409	Citrus_maxima|Chr2|52086089__52087282,
+		410	Arabidopsis_thaliana|Chr4|NC_003075.7|7441815__7443041,
+		411	Arabidopsis_thaliana|Chr4|NC_003075.7|11813890__11815074,
+		412	Spinacia_oleracea|LZYP01002102.1|4369__5517,
+		413	Spinacia_oleracea|LZYP01000034.1|387578__388699,
+		414	Spinacia_oleracea|LZYP01000034.1|395665__396858,
+		415	Spinacia_oleracea|LZYP01000034.1|381227__382477,
+		416	Schlumbergera_truncata|FB_02,
+		417	Spinacia_oleracea|LZYP01000509.1|53908__54984,
+		418	Spinacia_oleracea|LZYP01000586.1|63225__64271,
+		419	Spinacia_oleracea|LZYP01001231.1|92124__93197,
+		420	Spinacia_oleracea|LZYP01000027.1|881535__882683,
+		421	Stenocereus_thurberi|NCQT01065004.1|1584__2747,
+		422	Stenocereus_thurberi|NCQT01120863.1|10653__11846,
+		423	Stenocereus_thurberi|NCQT01061416.1|114__1244,
+		424	Spinacia_oleracea|LZYP01000779.1|133301__134422,
+		425	Spinacia_oleracea|LZYP01000841.1|345127__346218,
+		426	Spinacia_oleracea|LZYP01000311.1|198767__199960,
+		427	Stenocereus_thurberi|NCQT01105790.1|1822__3015,
+		428	Spinacia_oleracea|LZYP01000779.1|82080__83228,
+		429	Spinacia_oleracea|LZYP01000779.1|570529__571779,
+		430	Spinacia_oleracea|LZYP01000035.1|689302__690372,
+		431	Schlumbergera_truncata|FB_04,
+		432	Stenocereus_thurberi|NCQT01112047.1|30114__31307,
+		433	Schlumbergera_truncata|FB_03,
+		434	Spinacia_oleracea|LZYP01001709.1|62233__63432,
+		435	Spinacia_oleracea|LZYP01001709.1|71016__72224,
+		436	Spinacia_oleracea|LZYP01002189.1|21261__22493,
+		437	Spinacia_oleracea|LZYP01000373.1|10085__11224,
+		438	Spinacia_oleracea|LZYP01000831.1|78754__79959,
+		439	Spinacia_oleracea|LZYP01001709.1|140606__141712,
+		440	Spinacia_oleracea|LZYP01001709.1|11963__13183,
+		441	Spinacia_oleracea|LZYP01006265.1|1149__2276,
+		442	Spinacia_oleracea|LZYP01001709.1|49306__50520,
+		443	Citrus_maxima|Chr8|1089570__1090667,
+		444	Arabidopsis_thaliana|Chr5|NC_003076.8|20131448__20132527,
+		445	Citrus_maxima|Chr8|11603628__11604800,
+		446	Arabidopsis_thaliana|Chr3|NC_003074.8|2510871__2512124,
+		447	Coffea_eugenioides|NC_040045.1|13243735__13245054,
+		448	Coffea_eugenioides|NC_040045.1|13239284__13240540,
+		449	Citrus_maxima|Chr2|26405869__26407005,
+		450	Citrus_maxima|Chr2|26395555__26396787,
+		451	Citrus_maxima|Chr2|26410938__26412131,
+		452	Coffea_eugenioides|NC_040040.1|50131556__50132770,
+		453	Coffea_eugenioides|NC_040040.1|13969427__13970626
+	;
+	TREE * UNTITLED = [&R] (((((1:0.3686804332,((2:0.09590314644,(3:0.03080347258,4:0.05066114315)[&bootstrap=100]:0.08798265119)[&bootstrap=100]:0.1687662361,((((5:0.04180969512,(6:0.04914947568,7:0.00499619159)[&bootstrap=99]:0.02327854284)[&bootstrap=100]:0.1926589081,(((8:0.1043267302,9:0.1114897555)[&bootstrap=100]:0.1531141869,10:0.1911920191)[&bootstrap=24]:0.0154144455,(11:0.2098644461,12:0.195611585)[&bootstrap=52]:0.02934354873)[&bootstrap=93]:0.08696581446)[&bootstrap=24]:0.02416496821,(13:0.2494607653,((14:0.1353417038,(15:0.06761552095,16:0.08352355828)[&bootstrap=100]:0.05185006297)[&bootstrap=99]:0.05068853444,(17:0.0772673492,18:0.1076963748)[&bootstrap=100]:0.07911613426)[&bootstrap=100]:0.1101722469)[&bootstrap=24]:0.02399315845)[&bootstrap=8]:0.0128149961,(19:0.2839353015,20:0.2630889869)[&bootstrap=19]:0.04192807164)[&bootstrap=21]:0.0327252559)[&bootstrap=62]:0.08809734393)[&bootstrap=100]:0.5119737363,(((((21:0.8766463582,(((22:0.2050596093,((23:0.309412846,24:0.1751992975)[&bootstrap=88]:0.06995643294,25:0.2615861429)[&bootstrap=83]:0.03834195636)[&bootstrap=100]:0.1939360579,(26:0.2161339729,(27:0.1036520087,28:0.2119751738)[&bootstrap=30]:0.01960698246)[&bootstrap=98]:0.0958976259)[&bootstrap=100]:0.2910623431,29:0.4400542331)[&bootstrap=81]:0.05721125719)[&bootstrap=19]:0.0308896334,(((30:0.2657621861,31:0.1242303473)[&bootstrap=96]:0.08230987295,(32:0.01885760966,33:0.01594774358)[&bootstrap=100]:0.1611001723)[&bootstrap=43]:0.02643881036,(34:0.5734464169,35:0.2731490961)[&bootstrap=69]:0.06759959431)[&bootstrap=100]:0.2454454215)[&bootstrap=27]:0.06128135449,(((36:0.1096247182,37:0.1211530883)[&bootstrap=100]:0.2331846804,((38:0.2214323849,(39:0.1496705958,(40:0.2044988514,(41:0.130039469,42:0.1067263215)[&bootstrap=98]:0.03924605103)[&bootstrap=23]:0.01303662236)[&bootstrap=100]:0.1609908713)[&bootstrap=99]:0.06464753954,((43:0.2074088874,44:0.1195555143)[&bootstrap=100]:0.08784225117,(45:0.2275381468,46:0.2760819855)[&bootstrap=56]:0.02363542896)[&bootstrap=91]:0.05087281159)[&bootstrap=96]:0.06105480145)[&bootstrap=89]:0.06030293867,47:0.3820114276)[&bootstrap=100]:0.1494898515)[&bootstrap=34]:0.06419769694,(48:0.2266124696,49:0.3849448139)[&bootstrap=100]:0.2606599474)[&bootstrap=20]:0.04253963823,(((50:0.5128669477,(51:0.3021370245,52:0.422353371)[&bootstrap=94]:0.1542858126)[&bootstrap=100]:0.4658168289,((53:0.02486641974,54:0.01364643938)[&bootstrap=100]:0.4447168182,(55:0.1827845087,56:0.2839641608)[&bootstrap=100]:0.1941670529)[&bootstrap=73]:0.07614884165)[&bootstrap=9]:0.02297427009,(((57:0.2538941876,((((58:0.3068123485,59:0.2233540623)[&bootstrap=26]:0.02780678852,(60:0.2397989122,(61:0.2776363319,(62:0.2180493841,63:0.232388312)[&bootstrap=76]:0.03005424699)[&bootstrap=66]:0.02113220286)[&bootstrap=64]:0.02384520508)[&bootstrap=34]:0.02074226804,((64:0.2012308007,65:0.2792461266)[&bootstrap=23]:0.02840311096,(66:0.2771377036,(67:0.2219001655,(68:0.2789746908,69:0.1962347815)[&bootstrap=42]:0.02063918344)[&bootstrap=29]:0.01171678532)[&bootstrap=34]:0.01982324935)[&bootstrap=14]:0.01979752153)[&bootstrap=10]:0.01820012699,70:0.2367325741)[&bootstrap=12]:0.0177932901)[&bootstrap=100]:0.2390378789,(71:0.5424966038,((72:0.4507853014,(73:0.3918622007,((74:0.3412096171,(75:0.06165552761,76:0.07648087893)[&bootstrap=100]:0.2227469125)[&bootstrap=42]:0.04006888943,(77:0.2651983533,78:0.1972234658)[&bootstrap=100]:0.1283924638)[&bootstrap=61]:0.04587597897)[&bootstrap=83]:0.05268190657)[&bootstrap=87]:0.07130131315,((79:0.004626628253,(80:0.005142896916,81:0.003663395206)[&bootstrap=90]:0.008634890915)[&bootstrap=100]:0.2839859076,((82:0.001295553901,83:0.01178228413)[&bootstrap=100]:0.2469677672,((84:0.2090676485,(85:0.0125511985,(86:0.01235579053,87:0.02226476535)[&bootstrap=100]:0.02101958447)[&bootstrap=100]:0.1583559261)[&bootstrap=89]:0.04718441597,((88:0.001181306192,89:0.002337746898)[&bootstrap=100]:0.2202615487,(90:0.0005602929457,((91:0.002269774409,92:0.009366489586)[&bootstrap=86]:0.00291085362,93:0.00372891707)[&bootstrap=86]:0.00295797835)[&bootstrap=100]:0.241345491)[&bootstrap=31]:0.02029277327)[&bootstrap=69]:0.04900101905)[&bootstrap=67]:0.05630831228)[&bootstrap=100]:0.2847608229)[&bootstrap=44]:0.02979027256)[&bootstrap=53]:0.03611220526)[&bootstrap=85]:0.1152613896,(((94:0.261887425,95:0.3143342073)[&bootstrap=34]:0.0400767116,96:0.1949463535)[&bootstrap=100]:0.2267148493,(((97:0.4168574246,98:0.2891388009)[&bootstrap=100]:0.1527664311,((99:0.08604637176,100:0.08835143463)[&bootstrap=100]:0.1542018867,101:0.2179510661)[&bootstrap=43]:0.022681161)[&bootstrap=66]:0.03076517205,((((102:0.08690028048,(((103:0.06266859424,((((104:0.03593609812,105:0.04788094502)[&bootstrap=100]:0.0327695376,(106:0.1103397746,107:0.06112310675)[&bootstrap=100]:0.0359568748)[&bootstrap=100]:0.04163835654,(108:0.1093545724,109:0.1053519114)[&bootstrap=15]:0.00806877804)[&bootstrap=21]:0.01573919036,(110:0.06279109648,(111:0.02774772464,112:0.01951397995)[&bootstrap=100]:0.04159069246)[&bootstrap=57]:0.01331402826)[&bootstrap=27]:0.007172813294)[&bootstrap=29]:0.01267653066,(113:0.08660800006,114:0.05366149297)[&bootstrap=52]:0.01946057965)[&bootstrap=14]:0.005153951706,((115:0.06354843484,(116:0.02774142971,117:0.0373547965)[&bootstrap=100]:0.04498376371)[&bootstrap=30]:0.005927354239,118:0.1134007027)[&bootstrap=27]:0.006965414122)[&bootstrap=21]:0.01142477513)[&bootstrap=100]:0.2408929346,(119:0.06523157662,(120:0.003006619123,121:0.00695171923)[&bootstrap=100]:0.03930826585)[&bootstrap=100]:0.2573173905)[&bootstrap=52]:0.05153845518,(122:0.2234421244,123:0.3128061783)[&bootstrap=60]:0.03618762244)[&bootstrap=43]:0.02339016323,124:0.3490584758)[&bootstrap=37]:0.02277903738)[&bootstrap=100]:0.1614646219)[&bootstrap=97]:0.09566781775)[&bootstrap=34]:0.04019675906)[&bootstrap=12]:0.05179946772)[&bootstrap=5]:0.02730733653)[&bootstrap=29]:0.04504295399,(125:0.5828096136,(126:0.09523417558,127:0.1296875596)[&bootstrap=100]:0.3426653618)[&bootstrap=52]:0.09526905767)[&bootstrap=50]:0.08104344303,(128:0.5840797969,(((((129:0.02378129377,130:0.06241269109)[&bootstrap=100]:0.5040104186,131:0.476634725)[&bootstrap=94]:0.2300003483,((132:0.3909604107,(133:0.3576867609,(134:0.2064668192,135:0.3192151161)[&bootstrap=67]:0.05880702853)[&bootstrap=78]:0.06853717955)[&bootstrap=42]:0.05065776222,((136:0.5577141002,(137:0.5160965707,(((138:0.301881916,(139:0.3367032233,140:0.2781020595)[&bootstrap=60]:0.05373007423)[&bootstrap=100]:0.1797353897,((((141:0.2323340675,142:0.1617267246)[&bootstrap=87]:0.05067978815,(143:0.2077689804,(144:0.1227901597,145:0.1849672649)[&bootstrap=100]:0.07987640784)[&bootstrap=54]:0.03007130917)[&bootstrap=100]:0.1234079266,146:0.3491689359)[&bootstrap=61]:0.05493284242,147:0.2941709984)[&bootstrap=100]:0.2810212146)[&bootstrap=55]:0.05461166257,(148:0.6113994099,(149:0.4466988815,(150:0.5356733976,((151:0.3633920064,(152:0.04457445044,153:0.05556705138)[&bootstrap=100]:0.3882604312)[&bootstrap=90]:0.09696185353,(154:0.2041607648,155:0.2047291197)[&bootstrap=100]:0.179868704)[&bootstrap=98]:0.1325955975)[&bootstrap=69]:0.08983627749)[&bootstrap=51]:0.04621178031)[&bootstrap=44]:0.04221829116)[&bootstrap=37]:0.0332470768)[&bootstrap=100]:0.1904566385)[&bootstrap=16]:0.05855467155,((((156:0.2098660746,(157:0.1311522367,158:0.174428199)[&bootstrap=93]:0.04803481016)[&bootstrap=100]:0.1289180896,159:0.2984578026)[&bootstrap=100]:0.2255380538,(160:0.1151882867,(161:0.1095592316,162:0.06008968899)[&bootstrap=90]:0.04285704887)[&bootstrap=100]:0.2449670727)[&bootstrap=39]:0.03913301394,163:0.3696758276)[&bootstrap=16]:0.02583197337)[&bootstrap=11]:0.02843609235)[&bootstrap=5]:0.01030579837)[&bootstrap=34]:0.04527943295,((((164:0.06954370105,(((165:0.06223802573,166:0.05910490871)[&bootstrap=41]:0.009673781636,(167:0.05559268764,(((168:0.05650507469,(169:0.02455974343,170:0.03706790639)[&bootstrap=100]:0.02696055645)[&bootstrap=99]:0.01376015993,(171:0.07392628375,(172:0.04236121664,173:0.06375300237)[&bootstrap=60]:0.005098067264)[&bootstrap=91]:0.01181788542)[&bootstrap=56]:0.003542020672,174:0.05424200233)[&bootstrap=75]:0.00984468844)[&bootstrap=29]:0.002637629733)[&bootstrap=14]:0.003294525694,175:0.0921913147)[&bootstrap=33]:0.008569308533)[&bootstrap=89]:0.06260815084,176:0.1980289512)[&bootstrap=100]:0.3052447552,177:0.2828203121)[&bootstrap=100]:0.3585138707,((178:0.1283740904,179:0.20346257)[&bootstrap=100]:0.4307663292,(180:0.3796242173,((181:0.2777510836,(182:0.2977418407,((183:0.09381973237,184:0.09076225342)[&bootstrap=100]:0.06619076055,185:0.1218801623)[&bootstrap=98]:0.02815999552)[&bootstrap=99]:0.1034892958)[&bootstrap=100]:0.1433030253,((186:0.1742843084,187:0.2353215432)[&bootstrap=55]:0.01847193918,((188:0.1942167461,189:0.1595144371)[&bootstrap=100]:0.1270159407,(190:0.1476488476,191:0.1659758059)[&bootstrap=100]:0.2201324575)[&bootstrap=98]:0.07522843851)[&bootstrap=100]:0.1715314591)[&bootstrap=100]:0.136099465)[&bootstrap=32]:0.02442530351)[&bootstrap=34]:0.03629031416)[&bootstrap=21]:0.03545970476)[&bootstrap=46]:0.04823462858,(192:0.5156050548,193:0.4622034986)[&bootstrap=97]:0.2448962233)[&bootstrap=12]:0.01316847006)[&bootstrap=7]:0.02528451869)[&bootstrap=20]:0.07995165874,((((194:0.420947466,(195:0.3602349389,196:0.3805075251)[&bootstrap=89]:0.1258671037)[&bootstrap=100]:0.3849680666,(((197:0.4213830652,198:0.2597215953)[&bootstrap=99]:0.1496600212,(((199:0.1824824755,(200:0.347349609,201:0.1603361097)[&bootstrap=53]:0.04744453056)[&bootstrap=46]:0.03423894117,202:0.2307353246)[&bootstrap=98]:0.1077015177,203:0.4263416406)[&bootstrap=23]:0.03826899861)[&bootstrap=95]:0.09074699411,(((204:0.2982419191,205:0.3048752859)[&bootstrap=100]:0.1637624954,206:0.571533359)[&bootstrap=23]:0.03605290701,(((207:0.3849986691,((((208:0.2949971335,209:0.2610583588)[&bootstrap=100]:0.1095671573,210:0.3441340368)[&bootstrap=69]:0.03859693249,((211:0.1838342092,212:0.3082625927)[&bootstrap=70]:0.04349347801,((213:0.1852490897,214:0.2755823092)[&bootstrap=100]:0.1211274625,215:0.2550475575)[&bootstrap=61]:0.0269207828)[&bootstrap=100]:0.1980884152)[&bootstrap=48]:0.02966888362,((216:0.2312195112,217:0.2350852991)[&bootstrap=51]:0.04118788747,218:0.1876009889)[&bootstrap=74]:0.04318954519)[&bootstrap=41]:0.04332271283)[&bootstrap=100]:0.1447808932,219:0.4992770729)[&bootstrap=45]:0.07284204621,((((220:0.2605008904,(221:0.1381635058,222:0.1547840358)[&bootstrap=99]:0.09515438967)[&bootstrap=100]:0.4103496155,223:0.3902517084)[&bootstrap=31]:0.04165330992,(224:0.1078630446,225:0.1336593666)[&bootstrap=100]:0.4256537611)[&bootstrap=21]:0.04973189304,(226:0.4237595971,((((227:0.155792022,228:0.1472561456)[&bootstrap=66]:0.0354462974,229:0.1388570299)[&bootstrap=100]:0.1174171246,(230:0.1251387201,231:0.1337695191)[&bootstrap=100]:0.1612235851)[&bootstrap=98]:0.0875519344,(232:0.1593033348,233:0.202156708)[&bootstrap=100]:0.1649376178)[&bootstrap=83]:0.07334757567)[&bootstrap=100]:0.2649245336)[&bootstrap=8]:0.02719785197)[&bootstrap=12]:0.04191288028)[&bootstrap=25]:0.04866484507)[&bootstrap=100]:0.4093160466)[&bootstrap=45]:0.2401768712,(((((234:0.695840127,(235:0.6536515113,((236:0.2104642692,(237:0.1467439247,238:0.1752627225)[&bootstrap=99]:0.08490345838)[&bootstrap=100]:0.2695472545,((239:0.148186963,240:0.1419100698)[&bootstrap=77]:0.05072461466,(241:0.1415220142,242:0.1256182187)[&bootstrap=100]:0.08326959874)[&bootstrap=100]:0.2850095288)[&bootstrap=99]:0.2560082385)[&bootstrap=31]:0.004015233584)[&bootstrap=100]:0.4738347669,((243:0.6355133792,(((244:0.3304481678,(((245:0.005486975906,246:0.0104535963)[&bootstrap=100]:0.2906514049,(247:0.2603368411,248:0.1766133602)[&bootstrap=44]:0.03614845904)[&bootstrap=100]:0.08866505632,(((249:0.274133672,((((250:0.2841095043,251:0.2373261176)[&bootstrap=100]:0.1101502095,(252:0.2385573524,253:0.2581080574)[&bootstrap=100]:0.1373266808)[&bootstrap=39]:0.03665847277,254:0.3346277217)[&bootstrap=100]:0.1241384812,(255:0.2194380442,256:0.1646723093)[&bootstrap=100]:0.08876953091)[&bootstrap=51]:0.0240479261)[&bootstrap=10]:0.02461410923,((257:0.3187747245,((258:0.3701180005,259:0.2037830757)[&bootstrap=70]:0.03109295229,(260:0.1749696695,261:0.1357794452)[&bootstrap=100]:0.127971945)[&bootstrap=84]:0.05423658411)[&bootstrap=100]:0.1150029471,262:0.3210934302)[&bootstrap=24]:0.0331473898)[&bootstrap=7]:0.01266973471,((((263:0.2835410161,264:0.2098058266)[&bootstrap=41]:0.02264019769,265:0.158827646)[&bootstrap=90]:0.0495309312,266:0.2140803759)[&bootstrap=100]:0.1036946557,(267:0.2216991987,(268:0.2825056319,(269:0.2130196109,270:0.1226943592)[&bootstrap=98]:0.08133313592)[&bootstrap=49]:0.03473671551)[&bootstrap=100]:0.1187420235)[&bootstrap=21]:0.02536631723)[&bootstrap=12]:0.02728867775)[&bootstrap=46]:0.06734203256)[&bootstrap=100]:0.2037001962,((271:0.3215042276,((272:0.3240328371,(273:0.2058740001,(274:0.1751077362,275:0.1933275239)[&bootstrap=75]:0.04778395556)[&bootstrap=100]:0.1421148259)[&bootstrap=87]:0.05715303813,276:0.2101492859)[&bootstrap=93]:0.07118024617)[&bootstrap=100]:0.1416033331,(((277:0.3745211379,(278:0.1581930108,(279:0.1395155393,280:0.2307918773)[&bootstrap=20]:0.02137654897)[&bootstrap=100]:0.2107098935)[&bootstrap=47]:0.04569534131,((281:0.2211221192,282:0.1825565007)[&bootstrap=100]:0.1062167289,283:0.2514670013)[&bootstrap=80]:0.05424185841)[&bootstrap=19]:0.02307708596,284:0.3359983868)[&bootstrap=100]:0.2184581809)[&bootstrap=49]:0.02935115836)[&bootstrap=47]:0.07910793066,285:0.5033875579)[&bootstrap=100]:0.1907444489)[&bootstrap=93]:0.1742237078,(286:0.119773766,287:0.05910558251)[&bootstrap=100]:0.4611091478)[&bootstrap=25]:0.04493932315)[&bootstrap=15]:0.08189966365,(288:0.5241340386,(289:0.6952499195,290:0.5231310568)[&bootstrap=9]:0.0501510669)[&bootstrap=9]:0.05823626061)[&bootstrap=1]:0.04379052365,(((((291:0.1723746351,292:0.0834321298)[&bootstrap=100]:0.1858423586,(293:0.07988504121,294:0.1573386589)[&bootstrap=100]:0.4525609428)[&bootstrap=98]:0.1723109762,((((((295:0.07276253431,296:0.06345503607)[&bootstrap=88]:0.04006511474,(297:0.08368489044,(298:0.03571297063,299:0.04544402703)[&bootstrap=83]:0.01511934309)[&bootstrap=100]:0.06755665662)[&bootstrap=100]:0.07821175232,300:0.2136777371)[&bootstrap=85]:0.0427104256,(301:0.1084329797,(302:0.09527160228,303:0.1231835349)[&bootstrap=97]:0.03234644698)[&bootstrap=100]:0.1348233632)[&bootstrap=100]:0.1039638857,((304:0.1041300066,305:0.2671236645)[&bootstrap=26]:0.01115341126,((306:0.01860394629,307:0.008194045614)[&bootstrap=100]:0.2075739035,(308:0.2112809727,309:0.1550031498)[&bootstrap=61]:0.02450953278)[&bootstrap=30]:0.008908041925)[&bootstrap=100]:0.07953594449)[&bootstrap=100]:0.09940277077,(((((310:0.04359588818,311:0.03869619168)[&bootstrap=100]:0.1431968721,312:0.1983511918)[&bootstrap=56]:0.03406513525,(313:0.2339322804,314:0.1754320415)[&bootstrap=79]:0.04946813121)[&bootstrap=100]:0.1372188452,315:0.1967935623)[&bootstrap=99]:0.08025349187,316:0.2508204127)[&bootstrap=99]:0.06987052996)[&bootstrap=100]:0.1406768465)[&bootstrap=57]:0.07123155865,((317:1.0000005e-06,318:1.0000005e-06)[&bootstrap=100]:0.5676437327,((319:0.21115739,(320:0.04843890985,321:0.06016749078)[&bootstrap=100]:0.1792634214)[&bootstrap=97]:0.07799113207,(322:0.2226996848,(323:0.1356856502,324:0.1887884984)[&bootstrap=100]:0.1628599439)[&bootstrap=79]:0.06419851837)[&bootstrap=100]:0.2309926655)[&bootstrap=13]:0.05510086882)[&bootstrap=21]:0.05109828484,(((325:0.4453361692,(326:0.2761893212,327:0.2951318397)[&bootstrap=99]:0.1880812383)[&bootstrap=100]:0.3823576478,((((328:0.3092097059,329:0.3019731466)[&bootstrap=85]:0.08817101309,(((330:0.2603662615,((331:0.3927841939,(((332:0.122237027,(333:0.1219485661,334:0.08929504177)[&bootstrap=100]:0.08805704006)[&bootstrap=100]:0.2255790859,335:0.311018832)[&bootstrap=38]:0.02926361721,(336:0.3398201525,(337:0.2704030751,338:0.232830584)[&bootstrap=81]:0.06561298568)[&bootstrap=87]:0.05802065793)[&bootstrap=39]:0.03210859553)[&bootstrap=71]:0.03615759292,((339:0.1978382528,(340:0.05846442824,341:0.1835291963)[&bootstrap=100]:0.1125010801)[&bootstrap=100]:0.1180031674,342:0.1717887851)[&bootstrap=100]:0.1527532041)[&bootstrap=93]:0.04363456111)[&bootstrap=95]:0.04143976496,(((((343:0.110331417,344:0.3739619058)[&bootstrap=52]:0.03001726677,345:0.3809819133)[&bootstrap=27]:0.01408345281,346:0.2327718774)[&bootstrap=14]:0.008903318074,((347:0.2316481063,(348:0.2709393964,(349:0.3021393511,350:0.273547601)[&bootstrap=28]:0.01475878736)[&bootstrap=56]:0.03484355668)[&bootstrap=38]:0.03162039568,351:0.5283599116)[&bootstrap=11]:0.001389365419)[&bootstrap=90]:0.07021592446,(352:0.1966459787,(353:0.1306218436,(354:0.2102353224,355:0.1611878251)[&bootstrap=94]:0.08000371533)[&bootstrap=100]:0.1069887307)[&bootstrap=100]:0.1969090563)[&bootstrap=100]:0.1258941441)[&bootstrap=50]:0.03162029301,((356:0.3439853158,357:0.2266479773)[&bootstrap=40]:0.02858024395,(358:0.5051402657,(359:0.3896790105,(360:0.2776500153,361:0.2727260007)[&bootstrap=86]:0.04897359769)[&bootstrap=60]:0.05413348671)[&bootstrap=48]:0.03367724137)[&bootstrap=99]:0.1281900576)[&bootstrap=31]:0.01344680486)[&bootstrap=69]:0.06492706287,((362:0.3794009734,(363:0.3063611044,((364:0.2318174243,(365:0.1407968922,366:0.1674527596)[&bootstrap=98]:0.0700323961)[&bootstrap=100]:0.1701650121,367:0.5064462785)[&bootstrap=52]:0.03526973587)[&bootstrap=23]:0.02305666732)[&bootstrap=30]:0.02952550656,(368:0.4114813412,369:0.1221601657)[&bootstrap=100]:0.2428327519)[&bootstrap=42]:0.03595829289)[&bootstrap=75]:0.07462898013,370:0.7021316603)[&bootstrap=57]:0.06459746628)[&bootstrap=13]:0.04924181598,(371:0.7117509758,((372:0.3819858598,((373:0.08296285452,374:0.09457771775)[&bootstrap=100]:0.3752298903,((375:0.2421491482,376:0.2234610168)[&bootstrap=99]:0.09536605007,(377:0.1045395022,378:0.2157651334)[&bootstrap=100]:0.180545751)[&bootstrap=95]:0.07368694528)[&bootstrap=100]:0.1614635622)[&bootstrap=75]:0.07208542674,379:0.5959781485)[&bootstrap=31]:0.0180463623)[&bootstrap=20]:0.0554776437)[&bootstrap=2]:0.02390028881)[&bootstrap=5]:0.04024812783)[&bootstrap=1]:0.03048198279,((((((380:0.1452486381,381:0.1172874146)[&bootstrap=100]:0.2771576077,((382:0.01318577371,383:0.1126309239)[&bootstrap=100]:0.2096301479,384:0.2535084585)[&bootstrap=88]:0.08450951835)[&bootstrap=100]:0.2332111849,385:0.3946537712)[&bootstrap=39]:0.07057612123,((386:0.04601437132,(387:0.03291134625,388:0.03796638153)[&bootstrap=100]:0.05657653223)[&bootstrap=100]:0.3344395445,(389:0.2545943498,390:0.2333800546)[&bootstrap=100]:0.2127946794)[&bootstrap=17]:0.01015984347)[&bootstrap=10]:0.02880318684,(((391:0.2188807387,392:0.2058226278)[&bootstrap=100]:0.1580300586,((((393:0.02348302516,394:0.01634608175)[&bootstrap=100]:0.04138740581,395:0.0487164848)[&bootstrap=100]:0.3148208686,396:0.2608948992)[&bootstrap=70]:0.0441005094,(397:0.02647816875,398:0.02306047739)[&bootstrap=100]:0.2465995093)[&bootstrap=61]:0.04801562166)[&bootstrap=100]:0.1826526979,((((399:0.2468348014,400:0.6357015024)[&bootstrap=28]:0.03668771351,401:0.3434754107)[&bootstrap=32]:0.03526113574,(402:0.04737300725,403:0.04405691011)[&bootstrap=100]:0.5562054748)[&bootstrap=23]:0.03562824967,((404:0.06385789005,405:0.09307784279)[&bootstrap=100]:0.4220824555,((406:0.3392732548,(407:0.2229501655,408:0.258135259)[&bootstrap=80]:0.05393258292)[&bootstrap=100]:0.1060705344,(409:0.2594890196,(410:0.1066012179,411:0.302647626)[&bootstrap=100]:0.231426714)[&bootstrap=97]:0.1144128518)[&bootstrap=42]:0.02786512996)[&bootstrap=13]:0.01655255255)[&bootstrap=1]:0.002793214001)[&bootstrap=6]:0.02859515537)[&bootstrap=22]:0.04046496803,((412:0.2908285154,((((413:0.09686599705,414:0.08883601366)[&bootstrap=100]:0.0667984628,415:0.1482059192)[&bootstrap=100]:0.1604374013,416:0.1747462143)[&bootstrap=78]:0.04828725934,(417:0.06512300201,418:0.08104871257)[&bootstrap=100]:0.2612242338)[&bootstrap=84]:0.05178362497)[&bootstrap=100]:0.2261689091,((419:0.6570037142,(((420:0.364798361,((421:0.3697741354,(422:0.1362261795,423:0.3885131856)[&bootstrap=100]:0.1351653728)[&bootstrap=37]:0.007347056119,424:0.4242349745)[&bootstrap=68]:0.06893955666)[&bootstrap=98]:0.1147040107,(425:0.6072404377,((426:0.2509940129,427:0.2247397026)[&bootstrap=80]:0.05200798007,428:0.7436942185)[&bootstrap=61]:0.05129883108)[&bootstrap=51]:0.01873738159)[&bootstrap=84]:0.1313881298,(429:0.6624452989,(430:0.6271090935,(431:0.2393260933,(432:0.008007096494,433:0.02724257597)[&bootstrap=100]:0.1650286326)[&bootstrap=100]:0.2578548198)[&bootstrap=57]:0.04014458618)[&bootstrap=69]:0.1262501305)[&bootstrap=54]:0.05065754349)[&bootstrap=42]:0.04754057058,(((434:0.1703884838,435:0.1878854332)[&bootstrap=91]:0.04557354309,(((436:0.1845618839,437:0.165624291)[&bootstrap=30]:0.0269344266,(438:0.1950972257,439:0.1513925154)[&bootstrap=41]:0.02623168685)[&bootstrap=19]:0.01662392321,(440:0.1092919107,441:0.08964821123)[&bootstrap=100]:0.08568395923)[&bootstrap=17]:0.01715338692)[&bootstrap=55]:0.05968131573,442:0.2422496875)[&bootstrap=100]:0.2962248071)[&bootstrap=34]:0.02671671056)[&bootstrap=71]:0.0747123199)[&bootstrap=54]:0.0979385439)[&bootstrap=4]:0.04366916513)[&bootstrap=3]:0.03206189292,(443:0.6134155946,((444:0.9430835138,(445:0.3164075851,(446:0.3727631207,((447:0.1014509462,448:0.1063079534)[&bootstrap=100]:0.316544084,(449:0.2727818966,450:0.185184572)[&bootstrap=73]:0.07019145725)[&bootstrap=43]:0.03809303971)[&bootstrap=61]:0.06538286469)[&bootstrap=100]:0.1737142028)[&bootstrap=32]:0.06824310584,(451:0.5707391626,(452:0.1133800451,453:0.1140734071)[&bootstrap=100]:0.3566221788)[&bootstrap=97]:0.2280961)[&bootstrap=19]:0.05676112353)[&bootstrap=5]:0.05393136376)[&bootstrap=20]:0.07995165874);
+END;

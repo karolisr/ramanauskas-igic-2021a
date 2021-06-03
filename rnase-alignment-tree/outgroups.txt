@@ -1,0 +1,11 @@
+Antirrhinum|majus|x|hispanicum|sl28-RNase|AJ489249
+Spinacia|oleracea|-|XM_022010231|-|LOC110804631
+Matucana|madisoniorum|C2A-RNase
+Schlumbergera|truncata|C2A-RNase
+Coffea|eugenioides|XM_027309556.1
+Solanum|chilense|RXGB01000487.1|044541-050973
+Solanum|chilense|RXGB01001944.1|055714-061539
+Arabidopsis|thaliana|RNS2|NM_129536
+Citrus|maxima|Cg2g027520.1
+Malus|domestica|XM_008374444|-|LOC103436032
+Prunus|avium|XM_021955583|-|LOC110754514
